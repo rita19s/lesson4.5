@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: Aqua;
+    padding:10px ;
+}
+
+h1 {
+    text-align: center;
+    font-size: 30px;
+    background-color: LightBlue;
+    color: DarkBlue;
+}
+
+footer {
+    background-color:LightPink;
+}
+
+footer p {
+    background-color: white;
+    border: 5px solid LightPink;
+}
+
+nav {
+    background-color: LimeGreen;
+    padding: 10px;
+}
+
+nav a {
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.green {
+    background-color: Crimson;
+    border-radius: 10px;
+}
+
+.blue {
+    border:2px solid PaleTurquoise;
+}
+
+.lightgrey {
+    color: blue;
+}
